@@ -184,4 +184,10 @@ a:hover{
     clear: both;
   }
 
+  .nav-tabs>li>a{
+    font-size: 14px;
+    marging: 0px 1px;
+    padding: 10px 10px;
+  }
+
 }
