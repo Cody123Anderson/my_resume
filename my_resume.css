@@ -51,6 +51,10 @@ a:hover{
   border-bottom: 1px solid #987219;
 }
 
+.nav-tabs>li>a{
+  font-size: 9px;
+}
+
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
     color: #987219;
     cursor: default;
