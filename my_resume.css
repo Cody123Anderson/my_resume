@@ -52,7 +52,9 @@ a:hover{
 }
 
 .nav-tabs>li>a{
-  font-size: 9px;
+  font-size: 12px;
+  marging: 0px;
+  padding: 7px 5px;
 }
 
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
